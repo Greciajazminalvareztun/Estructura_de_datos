@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537565978 source:c:\users\grecia jazmin\documents\juego_de_ahorcado\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1537565872 source:c:\users\grecia jazmin\documents\juego_de_ahorcado\src\elementos.h.cpp
+

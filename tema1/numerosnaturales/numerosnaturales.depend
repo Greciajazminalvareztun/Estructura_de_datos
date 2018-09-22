@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1537566327 source:c:\users\grecia jazmin\documents\numerosnaturales\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	<string>
+	<fstream>
+	"numeros.h"
+
+1537566374 c:\users\grecia jazmin\documents\numerosnaturales\include\numeros.h
+
+1537566374 source:c:\users\grecia jazmin\documents\numerosnaturales\src\numeros.cpp
+	"numeros.h"
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	<string>
+	<fstream>
+
